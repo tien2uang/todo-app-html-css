@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap');
+body{
+    margin:0;
+    padding:0;
+    background: rgb(251,152,172);
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+.box
+{
+    background: #050406;
+    width: 22rem;
+    padding:1.5rem;
+    margin: 2rem auto;
+    border-radius: 1.8rem;
+    color: #fff;
+}
+.bar
+{
+    width: 100px;
+    height: 5px;
+    margin: auto;
+    background: #fff;
+    border-radius:3px;
+}
+.heading
+{
+    margin-top: 32px;
+    display: flex;
+}
+.heading h3
+{ 
+    margin: auto;
+    margin-left: 10px;
+    font-size: 25px;
+}
+.heading-back-icon {
+    background: rgb(32,33,44);
+    padding: 11px 14px;
+    border-radius: 14px;
+}
+.heading-info-icon
+{
+    margin: auto;
+    margin-right: 10px;
+}
+.content
+{
+
+    margin-top:40px;
+}
+.task
+{
+    background: rgb(32,33,44);
+    padding: 11px 14px;
+    margin-bottom:10px;
+    border-radius: 14px;
+}
+h5
+{
+    margin: 0;
+    margin-top: 10px;
+    padding-left: 20px;
+}
+.processing h5 
+{
+    color: rgb(251,118,161);
+}
+.completed h5
+{
+    color: rgb(111,196,190);
+}
+.search
+{
+    display: inline-block;
+    text-align: center;
+    background: rgb(253,131,150);
+    border-radius: 14px;
+    width: 50px;
+    height: 50px;
+
+}
+.search-icon {
+    margin-top:14px;
+}
