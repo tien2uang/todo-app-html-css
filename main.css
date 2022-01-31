@@ -2,7 +2,7 @@
 body{
     margin:0;
     padding:0;
-    background: rgb(251,152,172);
+    background: linear-gradient(to right top, #CE69E0,#FB9FA5);
     font-family: 'Be Vietnam Pro', sans-serif;
 }
 .box
@@ -76,7 +76,7 @@ h5
     position: relative;
     display: inline-block;
     text-align: center;
-    background: rgb(253,131,150);
+    background: linear-gradient(to right top,#C546D3,rgb(253,147,135));
     border-radius: 14px;
     width: 55px;
     height: 55px;
